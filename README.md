@@ -5,17 +5,18 @@ I created this project in an attempt to improve my skills in JavaScript, and sin
 
 ## Projects
 
-1.  Javascript Clock                ✅
-2.  Restaraunt Tip Calculator       ✅
-3.  Animated Navigation Toggle      ❌
-4.  Interactive Javascript Map      ❌
-5.  Javascript Game                 ❌
-6.  Mouseover Element Project       ❌
-7.  Login Authenticator             ❌
-8.  Javascript Drawing              ❌
-9.  Javascript Todo List            ❌
-10. Javascript Quiz                 ❌
-Bonus Project: Terminalizer         ❌
+1.  Javascript Clock
+2.  Restaraunt Tip Calculator
+3.  Animated Navigation Toggle
+4.  Interactive Javascript Map
+5.  Javascript Game
+6.  Mouseover Element Project
+7.  Login Authenticator
+8.  Javascript Drawing
+9.  Javascript Todo List
+10. Javascript Quiz
+
+Bonus Project: Terminalizer
     - Record your terminal and turn that recording into a GIF
 
 ## Contributions 
