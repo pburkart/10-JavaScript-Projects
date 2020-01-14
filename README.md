@@ -16,7 +16,7 @@ I created this project in an attempt to improve my skills in JavaScript, and sin
 9.  Javascript Todo List
 10. Javascript Quiz
 
-Bonus Project: Terminalizer
+Bonus Project: Terminalizer 
     - Record your terminal and turn that recording into a GIF
 
 ## Contributions 
