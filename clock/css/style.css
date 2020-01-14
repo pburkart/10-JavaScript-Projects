@@ -13,8 +13,7 @@ body {
 .container {
 	background-color: #162856;
 	padding: 3rem;
-	padding-bottom: 1em;
-	margin: 0 auto;
+	padding-bottom: 1rem;
 	width: 600px;
 	height: 13rem;
 	text-align:center;
