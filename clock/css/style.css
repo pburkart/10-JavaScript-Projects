@@ -4,20 +4,20 @@
 }
 
 body {
-	background-color: #2e4272;
+	background-color: #AA3C39;
 	font-family: Helvetica, sans-serif;
-	text-shadow: 0 2px 5px white;
-	color: white;
+	text-shadow: 0 2px 5px #FFACAA;
+	color: #FFACAA;
 }
 
 .container {
-	background-color: #162856;
+	background-color: #801815;
 	padding: 3rem;
 	padding-bottom: 1rem;
 	width: 600px;
 	height: 13rem;
 	text-align:center;
-	border: 1px solid #021019;
+	border: 1px solid #550200;
 	position: absolute;
 	top: 0;
 	bottom: 15em;
@@ -36,21 +36,25 @@ body {
 }
 
 a {
-	color: white;
+	color: #D46D6A;
+	text-shadow: 0 2px 5px #D46D6A;
 	text-decoration: none;
 }
 
 a:active {
 	text-decoration: none;
-	color: white;
+	text-shadow: 0 2px 5px #D46D6A
+	color: #D46D6A;
 }
 
 a:visited {
-	color: white;
+	color: #D46D6A;
+	text-shadow: 0 2px 5px #D46D6A
 }
 
 a:hover {
-	color: white;
+	color: #D46D6A;
+	text-shadow: 0 2px 5px #D46D6A
 	text-decoration: underline;
 }
 
